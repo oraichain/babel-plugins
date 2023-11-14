@@ -1,0 +1,14 @@
+{
+  "name": "@oraichain/operator-overloading",
+  "version": "1.0.1",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/template": "^7.22.15",
+    "@babel/types": "^7.23.3"
+  },
+  "license": "MIT"
+}
