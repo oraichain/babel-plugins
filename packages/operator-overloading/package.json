@@ -1,6 +1,6 @@
 {
-  "name": "@oraichain/operator-overloading",
-  "version": "1.0.1",
+  "name": "@oraichain/babel-plugin-operator-overloading",
+  "version": "1.0.2",
   "main": "index.js",
   "files": [
     "index.js"
