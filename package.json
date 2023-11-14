@@ -1,8 +1,10 @@
 {
-  "name": "@@oraichain/source",
+  "name": "root",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "deploy": "yarn publish --access public --patch"
+  },
   "private": true,
   "dependencies": {},
   "devDependencies": {
