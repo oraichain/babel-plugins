@@ -8,6 +8,7 @@ const methodMap = {
   '+': 'add',
   '-': 'sub',
   '*': 'mul',
+  '**': 'pow',
   '/': 'div',
   '<': 'lt',
   '>': 'gt',
